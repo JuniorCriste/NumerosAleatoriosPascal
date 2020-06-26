@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1535575190"/>
+  <Params Value=" -Twin32 -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-Fi/home/junior/Documentos/Programação/LAZARUS Projects/NumerosAleatorios/src/lib/x86_64-win32&quot; -Fu/usr/lib/lazarus/1.8.2/lcl/units/x86_64-win32/win32 -Fu/usr/lib/lazarus/1.8.2/lcl/units/x86_64-win32 -Fu/usr/lib/lazarus/1.8.2/components/lazutils/lib/x86_64-win32 -Fu/usr/lib/lazarus/1.8.2/packager/units/x86_64-win32 &quot;-Fu/home/junior/Documentos/Programação/LAZARUS Projects/NumerosAleatorios/src/&quot; &quot;-FU/home/junior/Documentos/Programação/LAZARUS Projects/NumerosAleatorios/src/lib/x86_64-win32/&quot; -dLCL -dLCLwin32 numale.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>

@@ -17,6 +17,7 @@
         <Filename Value="unit1numale.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="appGNA"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <IsVisibleTab Value="True"/>
         <TopLine Value="54"/>
@@ -26,7 +27,7 @@
         <LoadedDesigner Value="True"/>
       </Unit1>
     </Units>
-    <JumpHistory Count="21" HistoryIndex="20">
+    <JumpHistory Count="20" HistoryIndex="19">
       <Position1>
         <Filename Value="unit1numale.pas"/>
       </Position1>
@@ -104,12 +105,8 @@
       </Position19>
       <Position20>
         <Filename Value="unit1numale.pas"/>
-        <Caret Line="9" Column="27" TopLine="25"/>
-      </Position20>
-      <Position21>
-        <Filename Value="unit1numale.pas"/>
         <Caret Line="55" Column="32" TopLine="53"/>
-      </Position21>
+      </Position20>
     </JumpHistory>
   </ProjectSession>
 </CONFIG>

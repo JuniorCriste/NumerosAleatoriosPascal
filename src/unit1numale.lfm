@@ -7,7 +7,7 @@ object appGNA: TappGNA
   Caption = 'Gere Números Aleatorios'
   ClientHeight = 302
   ClientWidth = 330
-  Color = 13027042
+  Color = clInactiveCaption
   OnCreate = FormCreate
   Position = poDesktopCenter
   LCLVersion = '1.8.2.0'
